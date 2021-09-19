@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Triángulos
 {
-    class Program
+    class Triangulos
     {
         static void Main(string[] args)
         {

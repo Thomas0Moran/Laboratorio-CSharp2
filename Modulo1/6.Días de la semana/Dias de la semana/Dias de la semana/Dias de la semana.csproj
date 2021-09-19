@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4CA5267A-FA1F-4894-BBCB-592B5EF2FDB3}</ProjectGuid>
+    <ProjectGuid>{6AE1A2B5-B3BA-43CE-9F60-B977EDB7040F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Triángulos</RootNamespace>
-    <AssemblyName>Triángulos</AssemblyName>
+    <RootNamespace>Dias_de_la_semana</RootNamespace>
+    <AssemblyName>Dias de la semana</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Triangulos.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

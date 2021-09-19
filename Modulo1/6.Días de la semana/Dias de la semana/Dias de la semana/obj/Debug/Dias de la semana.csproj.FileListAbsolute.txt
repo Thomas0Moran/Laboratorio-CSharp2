@@ -1,0 +1,7 @@
+D:\PV\Laboratorio-CSharp2\Modulo1\6.Días de la semana\Dias de la semana\Dias de la semana\bin\Debug\Dias de la semana.exe.config
+D:\PV\Laboratorio-CSharp2\Modulo1\6.Días de la semana\Dias de la semana\Dias de la semana\bin\Debug\Dias de la semana.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\6.Días de la semana\Dias de la semana\Dias de la semana\bin\Debug\Dias de la semana.pdb
+D:\PV\Laboratorio-CSharp2\Modulo1\6.Días de la semana\Dias de la semana\Dias de la semana\obj\Debug\Dias de la semana.csproj.AssemblyReference.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\6.Días de la semana\Dias de la semana\Dias de la semana\obj\Debug\Dias de la semana.csproj.CoreCompileInputs.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\6.Días de la semana\Dias de la semana\Dias de la semana\obj\Debug\Dias de la semana.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\6.Días de la semana\Dias de la semana\Dias de la semana\obj\Debug\Dias de la semana.pdb
