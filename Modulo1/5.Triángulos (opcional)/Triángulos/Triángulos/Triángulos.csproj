@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A958FC2A-F4A8-4405-B730-4F56CAD3558C}</ProjectGuid>
+    <ProjectGuid>{4CA5267A-FA1F-4894-BBCB-592B5EF2FDB3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Desglose_de_billetes</RootNamespace>
-    <AssemblyName>Desglose de billetes</AssemblyName>
+    <RootNamespace>Triángulos</RootNamespace>
+    <AssemblyName>Triángulos</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dbilletes.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

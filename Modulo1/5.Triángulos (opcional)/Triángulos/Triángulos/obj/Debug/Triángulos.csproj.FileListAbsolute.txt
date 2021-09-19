@@ -1,0 +1,7 @@
+D:\PV\Laboratorio-CSharp2\Modulo1\5.Triángulos (opcional)\Triángulos\Triángulos\bin\Debug\Triángulos.exe.config
+D:\PV\Laboratorio-CSharp2\Modulo1\5.Triángulos (opcional)\Triángulos\Triángulos\bin\Debug\Triángulos.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\5.Triángulos (opcional)\Triángulos\Triángulos\bin\Debug\Triángulos.pdb
+D:\PV\Laboratorio-CSharp2\Modulo1\5.Triángulos (opcional)\Triángulos\Triángulos\obj\Debug\Triángulos.csproj.AssemblyReference.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\5.Triángulos (opcional)\Triángulos\Triángulos\obj\Debug\Triángulos.csproj.CoreCompileInputs.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\5.Triángulos (opcional)\Triángulos\Triángulos\obj\Debug\Triángulos.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\5.Triángulos (opcional)\Triángulos\Triángulos\obj\Debug\Triángulos.pdb
