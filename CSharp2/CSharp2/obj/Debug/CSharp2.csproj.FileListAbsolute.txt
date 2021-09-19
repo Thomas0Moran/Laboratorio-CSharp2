@@ -1,7 +1,0 @@
-D:\PV\Laboratorio-CSharp2\CSharp2\CSharp2\bin\Debug\CSharp2.exe.config
-D:\PV\Laboratorio-CSharp2\CSharp2\CSharp2\bin\Debug\CSharp2.exe
-D:\PV\Laboratorio-CSharp2\CSharp2\CSharp2\bin\Debug\CSharp2.pdb
-D:\PV\Laboratorio-CSharp2\CSharp2\CSharp2\obj\Debug\CSharp2.csproj.AssemblyReference.cache
-D:\PV\Laboratorio-CSharp2\CSharp2\CSharp2\obj\Debug\CSharp2.csproj.CoreCompileInputs.cache
-D:\PV\Laboratorio-CSharp2\CSharp2\CSharp2\obj\Debug\CSharp2.exe
-D:\PV\Laboratorio-CSharp2\CSharp2\CSharp2\obj\Debug\CSharp2.pdb

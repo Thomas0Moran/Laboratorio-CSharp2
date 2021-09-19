@@ -1,7 +1,0 @@
-D:\PV\Laboratorio-CSharp2\Laboratorio3\Laboratorio3\bin\Debug\Laboratorio3.exe.config
-D:\PV\Laboratorio-CSharp2\Laboratorio3\Laboratorio3\bin\Debug\Laboratorio3.exe
-D:\PV\Laboratorio-CSharp2\Laboratorio3\Laboratorio3\bin\Debug\Laboratorio3.pdb
-D:\PV\Laboratorio-CSharp2\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.csproj.AssemblyReference.cache
-D:\PV\Laboratorio-CSharp2\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.csproj.CoreCompileInputs.cache
-D:\PV\Laboratorio-CSharp2\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.exe
-D:\PV\Laboratorio-CSharp2\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.pdb
