@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B13318FA-CF97-4D63-BDA6-714CC65D67E7}</ProjectGuid>
+    <ProjectGuid>{B6F2A0FA-0A37-4866-AE99-993CD18583D4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Compra_de_restaurant</RootNamespace>
-    <AssemblyName>Compra de restaurant</AssemblyName>
+    <RootNamespace>Mayor_de_dos_numeros</RootNamespace>
+    <AssemblyName>Mayor de dos numeros</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Comprarestaurant.cs" />
+    <Compile Include="Mnumeros.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,7 @@
+D:\PV\Laboratorio-CSharp2\Modulo1\3.Mayor de dos números\Mayor de dos numeros\Mayor de dos numeros\bin\Debug\Mayor de dos numeros.exe.config
+D:\PV\Laboratorio-CSharp2\Modulo1\3.Mayor de dos números\Mayor de dos numeros\Mayor de dos numeros\bin\Debug\Mayor de dos numeros.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\3.Mayor de dos números\Mayor de dos numeros\Mayor de dos numeros\bin\Debug\Mayor de dos numeros.pdb
+D:\PV\Laboratorio-CSharp2\Modulo1\3.Mayor de dos números\Mayor de dos numeros\Mayor de dos numeros\obj\Debug\Mayor de dos numeros.csproj.AssemblyReference.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\3.Mayor de dos números\Mayor de dos numeros\Mayor de dos numeros\obj\Debug\Mayor de dos numeros.csproj.CoreCompileInputs.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\3.Mayor de dos números\Mayor de dos numeros\Mayor de dos numeros\obj\Debug\Mayor de dos numeros.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\3.Mayor de dos números\Mayor de dos numeros\Mayor de dos numeros\obj\Debug\Mayor de dos numeros.pdb

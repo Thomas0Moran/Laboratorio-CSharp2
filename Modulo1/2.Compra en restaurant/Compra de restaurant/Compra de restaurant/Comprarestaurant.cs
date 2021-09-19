@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Compra_de_restaurant
 {
-    class Program
+    class Comprarestaurant
     {
         static void Main(string[] args)
         {
