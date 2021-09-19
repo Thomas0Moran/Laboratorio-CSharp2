@@ -1,0 +1,7 @@
+D:\PV\Laboratorio-CSharp2\Modulo1\4.Desglose de billetes\Desglose de billetes\Desglose de billetes\bin\Debug\Desglose de billetes.exe.config
+D:\PV\Laboratorio-CSharp2\Modulo1\4.Desglose de billetes\Desglose de billetes\Desglose de billetes\bin\Debug\Desglose de billetes.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\4.Desglose de billetes\Desglose de billetes\Desglose de billetes\bin\Debug\Desglose de billetes.pdb
+D:\PV\Laboratorio-CSharp2\Modulo1\4.Desglose de billetes\Desglose de billetes\Desglose de billetes\obj\Debug\Desglose de billetes.csproj.AssemblyReference.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\4.Desglose de billetes\Desglose de billetes\Desglose de billetes\obj\Debug\Desglose de billetes.csproj.CoreCompileInputs.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\4.Desglose de billetes\Desglose de billetes\Desglose de billetes\obj\Debug\Desglose de billetes.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\4.Desglose de billetes\Desglose de billetes\Desglose de billetes\obj\Debug\Desglose de billetes.pdb
