@@ -1,0 +1,7 @@
+D:\PV\Laboratorio-CSharp2\Modulo1\1.Operaciones básicas\Operaciones Basicas\Operaciones Basicas\bin\Debug\Operaciones Basicas.exe.config
+D:\PV\Laboratorio-CSharp2\Modulo1\1.Operaciones básicas\Operaciones Basicas\Operaciones Basicas\bin\Debug\Operaciones Basicas.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\1.Operaciones básicas\Operaciones Basicas\Operaciones Basicas\bin\Debug\Operaciones Basicas.pdb
+D:\PV\Laboratorio-CSharp2\Modulo1\1.Operaciones básicas\Operaciones Basicas\Operaciones Basicas\obj\Debug\Operaciones Basicas.csproj.AssemblyReference.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\1.Operaciones básicas\Operaciones Basicas\Operaciones Basicas\obj\Debug\Operaciones Basicas.csproj.CoreCompileInputs.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\1.Operaciones básicas\Operaciones Basicas\Operaciones Basicas\obj\Debug\Operaciones Basicas.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\1.Operaciones básicas\Operaciones Basicas\Operaciones Basicas\obj\Debug\Operaciones Basicas.pdb
