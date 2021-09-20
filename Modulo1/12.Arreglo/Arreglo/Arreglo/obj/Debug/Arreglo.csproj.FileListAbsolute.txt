@@ -1,0 +1,7 @@
+D:\PV\Laboratorio-CSharp2\Modulo1\12.Arreglo\Arreglo\Arreglo\bin\Debug\Arreglo.exe.config
+D:\PV\Laboratorio-CSharp2\Modulo1\12.Arreglo\Arreglo\Arreglo\bin\Debug\Arreglo.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\12.Arreglo\Arreglo\Arreglo\bin\Debug\Arreglo.pdb
+D:\PV\Laboratorio-CSharp2\Modulo1\12.Arreglo\Arreglo\Arreglo\obj\Debug\Arreglo.csproj.AssemblyReference.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\12.Arreglo\Arreglo\Arreglo\obj\Debug\Arreglo.csproj.CoreCompileInputs.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\12.Arreglo\Arreglo\Arreglo\obj\Debug\Arreglo.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\12.Arreglo\Arreglo\Arreglo\obj\Debug\Arreglo.pdb
