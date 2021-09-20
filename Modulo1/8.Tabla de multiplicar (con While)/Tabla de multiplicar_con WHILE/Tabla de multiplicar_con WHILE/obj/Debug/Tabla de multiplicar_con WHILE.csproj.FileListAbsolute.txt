@@ -1,0 +1,7 @@
+D:\PV\Laboratorio-CSharp2\Modulo1\8.Tabla de multiplicar (con While)\Tabla de multiplicar_con WHILE\Tabla de multiplicar_con WHILE\obj\Debug\Tabla de multiplicar_con WHILE.csproj.AssemblyReference.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\8.Tabla de multiplicar (con While)\Tabla de multiplicar_con WHILE\Tabla de multiplicar_con WHILE\obj\Debug\Tabla de multiplicar_con WHILE.csproj.CoreCompileInputs.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\8.Tabla de multiplicar (con While)\Tabla de multiplicar_con WHILE\Tabla de multiplicar_con WHILE\bin\Debug\Tabla de multiplicar_con WHILE.exe.config
+D:\PV\Laboratorio-CSharp2\Modulo1\8.Tabla de multiplicar (con While)\Tabla de multiplicar_con WHILE\Tabla de multiplicar_con WHILE\bin\Debug\Tabla de multiplicar_con WHILE.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\8.Tabla de multiplicar (con While)\Tabla de multiplicar_con WHILE\Tabla de multiplicar_con WHILE\bin\Debug\Tabla de multiplicar_con WHILE.pdb
+D:\PV\Laboratorio-CSharp2\Modulo1\8.Tabla de multiplicar (con While)\Tabla de multiplicar_con WHILE\Tabla de multiplicar_con WHILE\obj\Debug\Tabla de multiplicar_con WHILE.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\8.Tabla de multiplicar (con While)\Tabla de multiplicar_con WHILE\Tabla de multiplicar_con WHILE\obj\Debug\Tabla de multiplicar_con WHILE.pdb
