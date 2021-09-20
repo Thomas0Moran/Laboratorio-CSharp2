@@ -1,0 +1,7 @@
+D:\PV\Laboratorio-CSharp2\Modulo1\11.Número primo (opcional)\Numero primo\Numero primo\bin\Debug\Numero primo.exe.config
+D:\PV\Laboratorio-CSharp2\Modulo1\11.Número primo (opcional)\Numero primo\Numero primo\bin\Debug\Numero primo.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\11.Número primo (opcional)\Numero primo\Numero primo\bin\Debug\Numero primo.pdb
+D:\PV\Laboratorio-CSharp2\Modulo1\11.Número primo (opcional)\Numero primo\Numero primo\obj\Debug\Numero primo.csproj.AssemblyReference.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\11.Número primo (opcional)\Numero primo\Numero primo\obj\Debug\Numero primo.csproj.CoreCompileInputs.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\11.Número primo (opcional)\Numero primo\Numero primo\obj\Debug\Numero primo.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\11.Número primo (opcional)\Numero primo\Numero primo\obj\Debug\Numero primo.pdb

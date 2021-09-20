@@ -22,7 +22,7 @@ namespace Funciones_de_cadena
 
             Console.WriteLine($"Longitud: {NOM.Length}");
             Console.WriteLine($"¿Usted es el diseñador de todo esto?: {NOM.Contains("Thomas")}");
-            Console.WriteLine($"Remplazo la vocal A: {NOM.Replace("a", ("e"))}");
+            Console.WriteLine($"Remplazo la vocal A: {NOM.Replace("a", ("x"))}");
             Console.WriteLine($"En minusculas: {NOM.ToLower()}");
             Console.WriteLine($"En mayusculas: {NOM.ToUpper()}");
             Console.WriteLine($"Removiendo cuatro letras: {NOM.Remove(4)}");
