@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tabla_de_multiplicar_con_WHILE
 {
-    class Program
+    class TablaWhile
     {
         static void Main(string[] args)
         {

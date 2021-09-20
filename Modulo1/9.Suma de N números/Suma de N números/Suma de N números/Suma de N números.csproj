@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{31B75A88-FA81-4C78-A7A9-1E5FD6623676}</ProjectGuid>
+    <ProjectGuid>{548CC894-B8C8-4F5B-A1EB-4FE56497D4A4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tabla_de_multiplicar_con_WHILE</RootNamespace>
-    <AssemblyName>Tabla de multiplicar_con WHILE</AssemblyName>
+    <RootNamespace>Suma_de_N_números</RootNamespace>
+    <AssemblyName>Suma de N números</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TablaWhile.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
