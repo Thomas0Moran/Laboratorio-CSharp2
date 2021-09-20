@@ -1,0 +1,7 @@
+D:\PV\Laboratorio-CSharp2\Modulo1\10.Funciones de cadena\Funciones de cadena\Funciones de cadena\bin\Debug\Funciones de cadena.exe.config
+D:\PV\Laboratorio-CSharp2\Modulo1\10.Funciones de cadena\Funciones de cadena\Funciones de cadena\bin\Debug\Funciones de cadena.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\10.Funciones de cadena\Funciones de cadena\Funciones de cadena\bin\Debug\Funciones de cadena.pdb
+D:\PV\Laboratorio-CSharp2\Modulo1\10.Funciones de cadena\Funciones de cadena\Funciones de cadena\obj\Debug\Funciones de cadena.csproj.AssemblyReference.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\10.Funciones de cadena\Funciones de cadena\Funciones de cadena\obj\Debug\Funciones de cadena.csproj.CoreCompileInputs.cache
+D:\PV\Laboratorio-CSharp2\Modulo1\10.Funciones de cadena\Funciones de cadena\Funciones de cadena\obj\Debug\Funciones de cadena.exe
+D:\PV\Laboratorio-CSharp2\Modulo1\10.Funciones de cadena\Funciones de cadena\Funciones de cadena\obj\Debug\Funciones de cadena.pdb
